@@ -1,2 +1,5 @@
-# syntax-glossary
-Glossary of bare minimum syntax
+# Syntax Glossary
+
+> Vanilla syntax for various theories
+
+
